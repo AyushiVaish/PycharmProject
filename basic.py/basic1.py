@@ -1,0 +1,11 @@
+num1=10;
+print (num1 ** 2);
+print (num1 // 2);
+print (num1 % 2);
+print ("He\'s is a handsome guy.");
+print ("My name is :" + "Ayushi");
+print ("2" + "2");
+print ("4" * 2);
+#print ("python" * 7.0);
+num2 = int("2");
+print (num2);
